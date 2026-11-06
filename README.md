@@ -1,5 +1,8 @@
 # Marketing Data -- UrbanStyle.ltd Andmemeeskond
+   
    ## Meeskonnaliikmed
+   | Nimi | Roll | OS |
+   |------|------|----|
    | Katrin Väljataga | A: Team Charter Koostaja | Win |
    | Simo Suursild | B: Portfoolio Struktuur + Dokumentatsioon | Win |
    | Egely Kink | C: Supabase Seadistaja | Win |
