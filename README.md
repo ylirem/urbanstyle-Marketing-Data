@@ -14,6 +14,6 @@
 
    ## Meeskonna lingid
    - **GitHub:** [Github](https://github.com/ylirem/urbanstyle-Marketing-Data)  
-   - **Supabase:** [Supabase - Minu-Projektid](https://kielhsvkxuxvajhsmytl.supabase.co)  
+   - **Supabase:** [Supabase - Minu-Projektid](https://supabase.com/dashboard/project/kielhsvkxuxvajhsmytl)  
    - **NotebookLLM:** [NotebookLLM](https://notebook.google.com/notebook/2f3f637c-d85f-4a05-ae47-aa5ee0ee1cc9)  
    - **Team Charter:** [Marketing Data Team Charter]()  
