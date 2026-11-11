@@ -23,10 +23,12 @@ KOKKULEPPED:
    *Kasutame Google Drive'i*
 
 ROLLIDE ROTATSIOON:  
-Nädal 1: A= Merily B= Egely C= Kristina D= Katrin E= Simo  
-Nädal 2: A= Egely B= Kristina C= Katrin D= Simo E= Merily  
-Nädal 3: A= Kristina B= Katrin C= Simo D= Merily E= Egely  
-Nädal 4: A= Katrin B= Simo C= Merily D= Egely E= Kristina  
+Nädal 1: A= Merily B= Egely C= Kristina D= Simo  
+Nädal 2: A= Egely B= Kristina C= Simo D= Merily  
+Nädal 3: A= Kristina B= Simo C= Merily D= Egely  
+Nädal 4: A= Simo B= Merily C= Egely D= Kristina  
+
+**(*Grupi ettekande valmistamine/kokkupanek sh individuaalsete kokkuvõtete lisamine esitlusse Roll:D*)** 
 
 ALLKIRJAD:  
 1. Kokkuleppega nõus (Egely)  
