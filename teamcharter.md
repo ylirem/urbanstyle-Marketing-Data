@@ -7,8 +7,8 @@ LIIKMED:
 4. Katrin Väljataga   (OS: Win)  Roll nädal 1: D: Team Charter seadistaja
 5. Simo Suursild      (OS: Win)  Roll nädal 1: E: Portfoolio Struktuur + Dokumentatsioon
 
-ÜHISED TÖÖRIISTAD:
-Suhtluskanal: Google Chat 
+ÜHISED TÖÖRIISTAD:  
+Suhtluskanal: Google Chat , Google Meet
 
 GitHub repo: [Github](https://github.com/ylirem/urbanstyle-Marketing-Data)  
 Supabase: [Supabase](https://supabase.com/dashboard/project/kielhsvkxuxvajhsmytl)  
@@ -22,14 +22,14 @@ KOKKULEPPED:
 3. Kuidas me jagame faile?  
    *Kasutame Google Drive'i*
 
-ROLLIDE ROTATSIOON:
+ROLLIDE ROTATSIOON:  
 Nädal 1: A= Merily B= Egely C= Kristina D= Katrin E= Simo  
 Nädal 2: A= Egely B= Kristina C= Katrin D= Simo E= Merily  
 Nädal 3: A= Kristina B= Katrin C= Simo D= Merily E= Egely  
 Nädal 4: A= Katrin B= Simo C= Merily D= Egely E= Kristina  
 
 ALLKIRJAD:  
-1. ____________  
+1. Kokkuleppega nõus (Egely)  
 2. ____________
 3. ____________
 4. ____________
