@@ -30,7 +30,7 @@ Nädal 4: A= Katrin B= Simo C= Merily D= Egely E= Kristina
 
 ALLKIRJAD:  
 1. Kokkuleppega nõus (Egely)  
-2. ____________
+2. Kokkuleppega nõus (Kristina)
 3. ____________
 4. ____________
 5. ____________
