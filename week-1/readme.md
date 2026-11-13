@@ -6,7 +6,7 @@
 
 Rollid oli jaotatud vastavalt teamcharter.md välja toodud rotatsioonile.   
 
-Mida leidsime ja kontrollisime:  
+## Mida leidsime ja kontrollisime:  
 
 **ROLL A - Müügiandmed:**
 -.
