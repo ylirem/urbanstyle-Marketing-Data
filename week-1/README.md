@@ -21,4 +21,6 @@ Rollid oli jaotatud vastavalt teamcharter.md välja toodud rotatsioonile.
 -.
 
 **ROLL D - Müügikanalid ja asukohad:**
--.
+- Tuvastasin, et müük toimub kahes kanalis online/vvebipoes ja füüsilistes poodides, mis asivad Tallinas, Tartus ja Pärnus
+- Suurim järeldus nende andmete pealt oli see, et 3462 müüki toimus veebipoes ning see moodustas 34.2% kogu müügist
+- Töö käigus tuvastasin ka selle, et tabel sisaldab 5116 duplikaati, mis tuleks kontrollida ja puhastada
