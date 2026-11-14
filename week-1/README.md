@@ -18,10 +18,11 @@ Rollid oli jaotatud vastavalt teamcharter.md välja toodud rotatsioonile.
   
 
 **ROLL C - Tooteandmed:**
--Leidsin, et meil on tooteandmete tabelis tooteridu on 362.
--Tootekategooriad: naiste_riided, meeste_riided, laste_riided, aksessuaarid, jalanõusid.
--Hindade ja kategooriate osas pole puuduvaid andmeid.
--Üllatav oli see, et eco sertifikaadita tooteid oli poole rohkem, kui sertifitseeritud tooteid (242 vs 102 + 18 puuduvat väärtust). Eco sertifikaadiga tooteid oli 28,2%.
+
+- Leidsin, et meil on tooteandmete tabelis tooteridu on 362.
+- Tootekategooriad: naiste_riided, meeste_riided, laste_riided, aksessuaarid, jalanõusid.
+- Hindade ja kategooriate osas pole puuduvaid andmeid.
+- Üllatav oli see, et eco sertifikaadita tooteid oli poole rohkem, kui sertifitseeritud tooteid (242 vs 102 + 18 puuduvat väärtust). Eco sertifikaadiga tooteid oli 28,2%.
 
 
 **ROLL D - Müügikanalid ja asukohad:**
