@@ -2,14 +2,17 @@
 
 ## Eesmärgid:
 - Nädal 1 eesmärgiks oli hinnata ja kontrollida tabelite: sales, customers ja products andmeid.
-- Õppisime ja kasutasime käsklusi/funktsioone: *SELECT, FROM , DISTINCT , COUNT,ORDER BY, LIMIT, WHERE, BETWEEN, MIN/MAX*.
+- Õppisime ja kasutasime käsklusi/funktsioone: *SELECT, FROM, DISTINCT, COUNT, ORDER BY, LIMIT, WHERE, BETWEEN, MIN/MAX*.
 
 Rollid oli jaotatud vastavalt teamcharter.md välja toodud rotatsioonile.   
 
 ## Mida leidsime ja kontrollisime:  
 
 **ROLL A - Müügiandmed:**
--.
+- Leidsin, et tabelis on 15234 rida ning 12 veergu.
+- Suurim tehing on summas 2170,40 ning väikseim
+tehing on -1405,32.
+- Puudu on 1487 kliendi andmed.
 
 **ROLL B - Kliendiandmed:**
 - Leidsin, et meil on andmebaasis 3150 klienti
@@ -26,7 +29,7 @@ Rollid oli jaotatud vastavalt teamcharter.md välja toodud rotatsioonile.
 
 
 **ROLL D - Müügikanalid ja asukohad:**
-- Tuvastasin, et müük toimub kahes kanalis online/vvebipoes ja füüsilistes poodides, mis asivad Tallinas, Tartus ja Pärnus
+- Tuvastasin, et müük toimub kahes kanalis online/veebipoes ja füüsilistes poodides, mis asuvad Tallinas, Tartus ja Pärnus
 - Suurim järeldus nende andmete pealt oli see, et 3462 müüki toimus veebipoes ning see moodustas 34.2% kogu müügist
 - Töö käigus tuvastasin ka selle, et tabel sisaldab 5116 duplikaati, mis tuleks kontrollida ja puhastada
 
