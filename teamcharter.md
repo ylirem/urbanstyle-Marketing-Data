@@ -2,10 +2,9 @@
 
 LIIKMED:
 1. Merily Võrno       (OS: Win)  Roll nädal 1: A: GitHub Repo seadistaja
-2. Egely Kink         (OS: Win)  Roll nädal 1: B: Supabase seadistaja
+2. Egely Kink         (OS: Win)  Roll nädal 1: B: Supabase seadistaja, Team Charter
 3. Kristina Villemson (OS: Win)  Roll nädal 1: C: NotebookLM seadistaja
-4. Katrin Väljataga   (OS: Win)  Roll nädal 1: D: Team Charter seadistaja
-5. Simo Suursild      (OS: Win)  Roll nädal 1: E: Portfoolio Struktuur + Dokumentatsioon
+5. Simo Suursild      (OS: Win)  Roll nädal 1: D: Portfoolio Struktuur + Dokumentatsioon
 
 ÜHISED TÖÖRIISTAD:  
 Suhtluskanal: Google Chat , Google Meet
@@ -34,5 +33,5 @@ ALLKIRJAD:
 1. Kokkuleppega nõus (Egely)  
 2. Kokkuleppega nõus (Kristina)
 3. Kokkuleppega nõus (Simo)  
-4. ____________
-KUUPÄEV: _______________
+4. Kokkuleppega nõus (Merily)
+KUUPÄEV: 18.11.2026
