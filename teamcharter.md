@@ -33,7 +33,6 @@ Nädal 4: A= Simo B= Merily C= Egely D= Kristina
 ALLKIRJAD:  
 1. Kokkuleppega nõus (Egely)  
 2. Kokkuleppega nõus (Kristina)
-3. ____________
+3. Kokkuleppega nõus (Simo)  
 4. ____________
-5. ____________
 KUUPÄEV: _______________
