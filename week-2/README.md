@@ -15,7 +15,12 @@ Rollid oli jaotatud vastavalt teamcharter.md välja toodud rotatsioonile.
   
 
 **ROLL C - Tooteandmete Puhastamine:**
-
+- 12 korduvat tootenime, kõiki kordub tabelis 2 korda
+- 18 NULL väärtust eco sertifikaadi väljal
+- 0 NULL väärtust ülejäänud väljadel
+- 10 loogika viga, kus jaehind on väiksem ostuhind (ÄRIRISK!)
+- 0 negatiivset või äärmusliku hinda
+- 0 ebajärjekindlust muudes veergudes  
 
 **ROLL D - Ristvalideerimine ja Kvaliteedikontroll:**
 
