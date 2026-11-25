@@ -2,14 +2,17 @@
 
 ## Eesmärgid:
 - Nädal 2 eesmärgiks oli tuvastada probleeme UrbanStyle andmetes/tabelites ning teostada nende korrastus ja puhastus
-- Õppisime ja kasutasime käsklusi/funktsioone: ...
+- Õppisime ja kasutasime käsklusi/funktsioone: GROUP BY, HAVING, ROW_NUMBER,IS NULL, COALESCE, NULLIF,CAST, TRIM, UPPER/LOWER
 
 Rollid oli jaotatud vastavalt teamcharter.md välja toodud rotatsioonile.   
 
 ## Mida leidsime:  
 
 **ROLL A - Müügiandmete Puhastamine:**
-
+- 4013 korduvat arvet mis annavad kokku 5116 duplikaati.
+- 1487 puuduvat kliendi ID / "külalisostud"
+- 305 negatiivse summaga arvet
+- 50 arvet müügikuupäevast väljas pool (2026-02-28)
 
 **ROLL B - Kliendiandmete Puhastamine:**
   
